@@ -19,7 +19,7 @@ Does this PR introduce any additional KPI metrics that should be measured to ens
 - [ ] KPI 2
 
 
-## Documentation
+# Documentation
 
 - [ ] This change requires a documentation update
   - [ ] Documentation for the change has been written and is available here: <link>
