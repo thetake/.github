@@ -3,7 +3,7 @@
 Include a summary of the change and issue fixed. Include relevant motivation and context. List any required dependencies for this change.
 
 
-# How Has This Been Tested?
+# Testing
 
 Describe the tests that you ran to verify your changes. Provide instructions so we can reproduce your results. List any relevant testing configuration details.
 
