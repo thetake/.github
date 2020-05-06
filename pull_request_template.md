@@ -33,7 +33,7 @@ List KPIs that should be measured to ensure the project/deployment is successful
 - [ ] Code contains comments throughout, esp. in hard-to-understand areas
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
-- [ ] Monitoring plan is in place to detect issues with release
+- [ ] A monitoring plan is in place to detect issues with the release
 - [ ] Dependent changes are published in downstream modules
 
 
@@ -43,5 +43,5 @@ List KPIs that should be measured to ensure the project/deployment is successful
 - [ ] I have evaluated the potential for this change to affect other systems
 - [ ] I have reviewed and/or re-run the tests outlined by the contributor
 - [ ] I have reviewed any new documentation
-- [ ] I have reviewed the monitoring plan and am confident that issues will be detected
+- [ ] I have reviewed the monitoring plan and am confident that any issues will be detected
 
