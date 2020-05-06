@@ -31,7 +31,8 @@ List KPIs that should be measured to ensure the project/deployment is successful
 - [ ] Code has been thoroughly reviewed
 - [ ] Code follows style guidelines
 - [ ] Code contains comments throughout, esp. in hard-to-understand areas
-- [ ] Unit tests pass locally, show commits successfully fix bug and/or implement feature
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] New and existing unit tests pass locally with my changes
 - [ ] Monitoring plan is in place to detect issues with release
 - [ ] Dependent changes are published in downstream modules
 
