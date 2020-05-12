@@ -1,11 +1,11 @@
 # Description
 
-Include a summary of the change and issue fixed. Include relevant motivation and context. List any required dependencies for this change.
+_Include a summary of the change and issue fixed. Include relevant motivation and context. List any required dependencies for this change._
 
 
 # Testing
 
-Describe the tests that you ran to verify your changes. Provide instructions so we can reproduce your results. List any relevant testing configuration details.
+_Describe the tests that you ran to verify your changes. Provide instructions so we can reproduce your results. List any relevant testing configuration details._
 
 - [ ] Test A
 - [ ] Test B
@@ -13,7 +13,7 @@ Describe the tests that you ran to verify your changes. Provide instructions so 
 
 # Monitoring/KPIs
 
-List KPIs that should be measured to ensure the project/deployment is successful.
+_List KPIs that should be measured to ensure the project/deployment is successful._
 
 - [ ] KPI 1
 - [ ] KPI 2
