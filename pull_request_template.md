@@ -4,6 +4,7 @@
 
 _Additional approvals if this is a TaskUs tool_
 - [ ] Final Approval From Operations (_Name_)
+- [ ] Final Approval From AI Team (_Delete if not AI related_) (_Name_)
 - [ ] Final Approval From Upper Management (_Name_)
 
 
@@ -27,12 +28,13 @@ _Follow and check off steps if this PR is for a tool used by TaskUs. More detail
 8. [ ] 8. Any newly added metrics/tests are operating correctly in staging environment
 9. [ ] 9. Presented feature to manager and received sign-off
 10. [ ] 10. Presented feature to operations (Vic) and received sign-off
-11. [ ] 11. Presented feature to upper management and received sign-off
-12. [ ] 12. TaskUs switched to staging environment
-13. [ ] 13. Staging environment is stable
-14. [ ] 14. Code deployed to prod environment
-15. [ ] 15. Prod environment smoke testing and automated tests pass
-16. [ ] 16. Taskus switched back to prod environment
+11. [ ] 11. Presented feature to AI team and received sign-off (_delete if not AI related_)
+12. [ ] 12. Presented feature to upper management and received sign-off
+13. [ ] 13. TaskUs switched to staging environment
+14. [ ] 14. Staging environment is stable
+15. [ ] 15. Code deployed to prod environment
+16. [ ] 16. Prod environment smoke testing and automated tests pass
+17. [ ] 17. Taskus switched back to prod environment
 
 
 # Testing
