@@ -1,6 +1,38 @@
+# Approvals
+- [ ] Final Approval From Contributor (_Name_)
+- [ ] Final Approval From Manager (_Name_)
+
+_Additional approvals if this is a TaskUs tool_
+- [ ] Final Approval From Operations (_Name_)
+- [ ] Final Approval From Upper Management (_Name_)
+
+
 # Description
 
 _Include a summary of the change and issue fixed. Include relevant motivation and context. List any required dependencies for this change._
+
+
+# TheTake TaskUs Tool Testing Torah (TTTTTT)
+_(Delete if not a TaskUs Tool)_
+
+_Follow and check off steps if this PR is for a tool used by TaskUs. More detail in this presentation: https://docs.google.com/presentation/d/10v6bVgcNDI9Z-0cssha9Tr0pgMmljZ2L05gXzeYzE0c/edit#slide=id.g8af75cf8e8_0_214_
+
+1. [ ] 1. Dev work done
+2. [ ] 2. Code tested locally
+3. [ ] 3. Code review done with manager
+4. [ ] 4. Deployed to staging environment
+5. [ ] 5. Testing plan created with input from manager and operations (Vic) - outline testing plan below
+6. [ ] 6. Testing performed according to plan on staging environment
+7. [ ] 7. All existing tests pass in staging environment
+8. [ ] 8. Any newly added metrics/tests are operating correctly in staging environment
+9. [ ] 9. Presented feature to manager and received sign-off
+10. [ ] 10. Presented feature to operations (Vic) and received sign-off
+11. [ ] 11. Presented feature to upper management and received sign-off
+12. [ ] 12. TaskUs switched to staging environment
+13. [ ] 13. Staging environment is stable
+14. [ ] 14. Code deployed to prod environment
+15. [ ] 15. Prod environment smoke testing and automated tests pass
+16. [ ] 16. Taskus switched back to prod environment
 
 
 # Testing
@@ -44,4 +76,5 @@ _List KPIs that should be measured to ensure the project/deployment is successfu
 - [ ] I have reviewed and/or re-run the tests outlined by the contributor
 - [ ] I have reviewed any new documentation
 - [ ] I have reviewed the monitoring plan and am confident that any issues will be detected
+
 
