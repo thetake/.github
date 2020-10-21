@@ -1,6 +1,6 @@
 # Approvals
 - [ ] Final Approval From Contributor (_Name_)
-- [ ] Final Approval From Manager (_Name_)
+- [ ] Final Approval From Reviewer/Manager (_Name_)
 
 _Additional approvals if this is a TaskUs tool_
 - [ ] Final Approval From Operations (_Name_)
