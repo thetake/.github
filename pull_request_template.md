@@ -1,8 +1,8 @@
 # Approvals
-Contributor(s): _Your Name_
-Primary Reviewer(s): _Name_
-Additional Reviewer(s): _Name_
-Operations Reviewer(s) (for TaskUs tools): _Name_
+Contributor(s): _Your Name_  
+Primary Reviewer(s): _Name_  
+Additional Reviewer(s): _Name_  
+Operations Reviewer(s) (for TaskUs tools): _Name_  
 
 # Description
 
